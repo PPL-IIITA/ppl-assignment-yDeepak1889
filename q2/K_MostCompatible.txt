@@ -1,0 +1,10 @@
+1: G27 And B54 , Compatibility Value 296
+2: G22 And B53 , Compatibility Value 266
+3: G17 And B28 , Compatibility Value 211
+4: G2 And B42 , Compatibility Value 159
+5: G8 And B35 , Compatibility Value 152
+6: G7 And B33 , Compatibility Value 133
+7: G32 And B37 , Compatibility Value 114
+8: G12 And B30 , Compatibility Value 110
+9: G3 And B27 , Compatibility Value 77
+10: G21 And B87 , Compatibility Value 72

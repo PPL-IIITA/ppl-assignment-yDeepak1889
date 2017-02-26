@@ -1,0 +1,10 @@
+1: G29 And B91 , Happiness Value 33.0000
+2: G7 And B33 , Happiness Value 13.0000
+3: G43 And B38 , Happiness Value 11.0000
+4: G40 And B8 , Happiness Value 10.7183
+5: G27 And B54 , Happiness Value 10.0987
+6: G4 And B43 , Happiness Value 10.0000
+7: G21 And B87 , Happiness Value 9.7183
+8: G2 And B42 , Happiness Value 9.3891
+9: G25 And B10 , Happiness Value 9.0000
+10: G13 And B68 , Happiness Value 9.0000

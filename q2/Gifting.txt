@@ -1,0 +1,577 @@
+Following Gifts are given by B98 to G9
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+
+Following Gifts are given by B72 to G49
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+11:   Gift Type -: Essential,    Price -: 39,    Value -: 6
+12:   Gift Type -: Luxury,    Price -: 39,    Value -: 19
+13:   Gift Type -: Essential,    Price -: 40,    Value -: 6
+
+Following Gifts are given by B82 to G18
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+11:   Gift Type -: Essential,    Price -: 39,    Value -: 6
+
+Following Gifts are given by B99 to G35
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+11:   Gift Type -: Essential,    Price -: 39,    Value -: 6
+12:   Gift Type -: Luxury,    Price -: 39,    Value -: 19
+
+Following Gifts are given by B16 to G10
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+
+Following Gifts are given by B57 to G37
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+
+Following Gifts are given by B90 to G42
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+
+Following Gifts are given by B81 to G19
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+
+Following Gifts are given by B31 to G15
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+
+Following Gifts are given by B43 to G4
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+11:   Gift Type -: Essential,    Price -: 39,    Value -: 6
+12:   Gift Type -: Luxury,    Price -: 39,    Value -: 19
+13:   Gift Type -: Essential,    Price -: 40,    Value -: 6
+14:   Gift Type -: Utility,    Price -: 42,    Value -: 13
+
+Following Gifts are given by B89 to G26
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+11:   Gift Type -: Essential,    Price -: 39,    Value -: 6
+12:   Gift Type -: Luxury,    Price -: 39,    Value -: 19
+13:   Gift Type -: Essential,    Price -: 40,    Value -: 6
+14:   Gift Type -: Utility,    Price -: 42,    Value -: 13
+
+Following Gifts are given by B94 to G36
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+
+Following Gifts are given by B23 to G16
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+11:   Gift Type -: Essential,    Price -: 39,    Value -: 6
+
+Following Gifts are given by B8 to G40
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+
+Following Gifts are given by B38 to G43
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+11:   Gift Type -: Essential,    Price -: 39,    Value -: 6
+
+Following Gifts are given by B58 to G28
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+11:   Gift Type -: Essential,    Price -: 39,    Value -: 6
+12:   Gift Type -: Luxury,    Price -: 39,    Value -: 19
+13:   Gift Type -: Essential,    Price -: 40,    Value -: 6
+14:   Gift Type -: Utility,    Price -: 42,    Value -: 13
+
+Following Gifts are given by B10 to G25
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+11:   Gift Type -: Essential,    Price -: 39,    Value -: 6
+12:   Gift Type -: Luxury,    Price -: 39,    Value -: 19
+13:   Gift Type -: Essential,    Price -: 40,    Value -: 6
+
+Following Gifts are given by B62 to G31
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+11:   Gift Type -: Essential,    Price -: 39,    Value -: 6
+12:   Gift Type -: Luxury,    Price -: 39,    Value -: 19
+13:   Gift Type -: Essential,    Price -: 40,    Value -: 6
+
+Following Gifts are given by B13 to G0
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+11:   Gift Type -: Essential,    Price -: 39,    Value -: 6
+12:   Gift Type -: Luxury,    Price -: 39,    Value -: 19
+13:   Gift Type -: Essential,    Price -: 40,    Value -: 6
+14:   Gift Type -: Utility,    Price -: 42,    Value -: 13
+
+Following Gifts are given by B74 to G39
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+
+Following Gifts are given by B52 to G46
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+
+Following Gifts are given by B36 to G1
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+
+Following Gifts are given by B95 to G33
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+11:   Gift Type -: Essential,    Price -: 39,    Value -: 6
+12:   Gift Type -: Luxury,    Price -: 39,    Value -: 19
+13:   Gift Type -: Essential,    Price -: 40,    Value -: 6
+14:   Gift Type -: Utility,    Price -: 42,    Value -: 13
+
+Following Gifts are given by B68 to G13
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+11:   Gift Type -: Essential,    Price -: 39,    Value -: 6
+
+Following Gifts are given by B1 to G34
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+11:   Gift Type -: Essential,    Price -: 39,    Value -: 6
+12:   Gift Type -: Luxury,    Price -: 39,    Value -: 19
+
+Following Gifts are given by B22 to G5
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+11:   Gift Type -: Essential,    Price -: 39,    Value -: 6
+12:   Gift Type -: Luxury,    Price -: 39,    Value -: 19
+13:   Gift Type -: Essential,    Price -: 40,    Value -: 6
+14:   Gift Type -: Utility,    Price -: 42,    Value -: 13
+
+Following Gifts are given by B47 to G11
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+11:   Gift Type -: Essential,    Price -: 39,    Value -: 6
+12:   Gift Type -: Luxury,    Price -: 39,    Value -: 19
+
+Following Gifts are given by B70 to G24
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+
+Following Gifts are given by B92 to G48
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+
+Following Gifts are given by B48 to G41
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+
+Following Gifts are given by B46 to G6
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+11:   Gift Type -: Essential,    Price -: 39,    Value -: 6
+
+Following Gifts are given by B97 to G14
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+11:   Gift Type -: Essential,    Price -: 39,    Value -: 6
+12:   Gift Type -: Luxury,    Price -: 39,    Value -: 19
+
+Following Gifts are given by B91 to G29
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+
+Following Gifts are given by B17 to G45
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+11:   Gift Type -: Essential,    Price -: 39,    Value -: 6
+12:   Gift Type -: Luxury,    Price -: 39,    Value -: 19
+
+Following Gifts are given by B29 to G30
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+
+Following Gifts are given by B88 to G47
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+
+Following Gifts are given by B0 to G44
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+11:   Gift Type -: Essential,    Price -: 39,    Value -: 6
+
+Following Gifts are given by B86 to G38
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+11:   Gift Type -: Essential,    Price -: 39,    Value -: 6
+12:   Gift Type -: Luxury,    Price -: 39,    Value -: 19
+
+Following Gifts are given by B87 to G21
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+
+Following Gifts are given by B27 to G3
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+11:   Gift Type -: Essential,    Price -: 39,    Value -: 6
+12:   Gift Type -: Luxury,    Price -: 39,    Value -: 19
+13:   Gift Type -: Essential,    Price -: 40,    Value -: 6
+
+Following Gifts are given by B30 to G12
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+11:   Gift Type -: Essential,    Price -: 39,    Value -: 6
+
+Following Gifts are given by B37 to G32
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+
+Following Gifts are given by B33 to G7
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+
+Following Gifts are given by B35 to G8
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+
+Following Gifts are given by B42 to G2
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+
+Following Gifts are given by B28 to G17
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+11:   Gift Type -: Essential,    Price -: 39,    Value -: 6
+
+Following Gifts are given by B53 to G22
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+11:   Gift Type -: Essential,    Price -: 39,    Value -: 6
+12:   Gift Type -: Luxury,    Price -: 39,    Value -: 19
+
+Following Gifts are given by B54 to G27
+1:   Gift Type -: Utility,    Price -: 30,    Value -: 3
+2:   Gift Type -: Utility,    Price -: 33,    Value -: 4
+3:   Gift Type -: Essential,    Price -: 33,    Value -: 1
+4:   Gift Type -: Utility,    Price -: 34,    Value -: 9
+5:   Gift Type -: Luxury,    Price -: 34,    Value -: 4
+6:   Gift Type -: Essential,    Price -: 35,    Value -: 1
+7:   Gift Type -: Utility,    Price -: 35,    Value -: 19
+8:   Gift Type -: Essential,    Price -: 35,    Value -: 16
+9:   Gift Type -: Luxury,    Price -: 36,    Value -: 10
+10:   Gift Type -: Luxury,    Price -: 37,    Value -: 14
+11:   Gift Type -: Essential,    Price -: 39,    Value -: 6
+12:   Gift Type -: Luxury,    Price -: 39,    Value -: 19
+13:   Gift Type -: Essential,    Price -: 40,    Value -: 6
+
