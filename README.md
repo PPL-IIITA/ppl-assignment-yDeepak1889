@@ -34,4 +34,4 @@ $ firefox index.html
 
 ## TOOLS
 - IDE : NetBeans 8.1
-- OS : Linux 16.04 
+- OS : Ubuntu 16.04 
