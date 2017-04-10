@@ -19,42 +19,42 @@ import java.time.*;
 * @since   2017-04-10
 */
 public class utils {
-    
+
     private ArrayList<Boys> boys = null;
     private ArrayList<Girls> girls = null;
-    private ArrayList<Gifts> gifts = null;    
+    private ArrayList<Gifts> gifts = null;
     /**
      * <p>Initialises Boys ArrayList , Girls ArrayList and Gifts ArrayList</p>
      * @param boys ArrayList Boys
      * @param girls ArrayList Girls
      * @param gifts ArrayList Gifts
      */
-    
+
     public utils(ArrayList<Boys> boys, ArrayList<Girls> girls, ArrayList<Gifts> gifts) {
         this.boys = boys;
         this.girls = girls;
         this.gifts = gifts;
     }
-   
+
    /**
-    * 
+    *
     *<p> Forms couples according to algorithm mentioned in question</p>
     *
     * @param couples empty ArrayList of Couples to be filled with formed couples
     */
-    
+
     public void formCouples (ArrayList<Couples> couples) {
         int i, j;
         Boys b;
         Girls g;
         setPrintStream("Log1.txt");
-        
+
         for (i = 0; i < girls.size(); i++) {
             g = girls.get(i);
-            
+
             switch(g.getCriterion()) {
                 case 0:
-                    boys.sort(Comparator.comparing(Boys::getAttractiveness)); 
+                    boys.sort(Comparator.comparing(Boys::getAttractiveness));
                     break;
                 case 1:
                     boys.sort(Comparator.comparing(Boys::getIntelligence));
@@ -63,30 +63,30 @@ public class utils {
                     boys.sort(Comparator.comparing(Boys::getBudget));
                     break;
             }
-            
+
             for (j = 0; j < boys.size(); j++) {
                 b = boys.get(j);
-         
+
                 if (b.getCommited() == false && g.getCommited() == false && b.getBudget() >= g.getMaintenance() && g.getAttractiveness() >= b.getMinAttractiveness() && (g.getBF() == null || !g.getBF().getName().equals(b.getName()))) {
                     b.setCommited(true);
                     g.setCommited(true);
                     b.setGF(g);
                     g.setBF(b);
                     couples.add(new Couples(b, g));
-         
+
                     System.out.println(g.getName() + " got committed to " + b.getName() + " on "+ LocalDate.now()+" "+LocalTime.now());
-                    
+
                     break;
                 }
             }
         }
     }
-    
+
     /**
      * <p> Allocates Gift from ArrayList of Gifts to a Couple
      * @param c Couple Object
      */
-    
+
     private void allocateGiftForSingleCouple (Couples c) {
         int totalCost = 0;
         int capacity = 0;
@@ -105,29 +105,29 @@ public class utils {
                     break;
                 }
             }
-            
+
             c.onGiftingFinish();
     }
-    
+
     /**
      * This method allocates Gifts to couples according to their budget
      */
-    
+
     public void allocateGifts(ArrayList<Couples> couples) {
-       
-        gifts.sort(Comparator.comparing(Gifts::getPrice));  
+
+        gifts.sort(Comparator.comparing(Gifts::getPrice));
         for (Couples c : couples) {
             allocateGiftForSingleCouple(c);
         }
     }
-    
+
     /**
      * This method writes k most  HAPPY COUPLES to file K_MostHappy.txt
      * @param n value of k
      */
-    
+
     public  void k_mostHappyCouples (ArrayList<Couples> couples, int n) {
-        DecimalFormat df = new DecimalFormat("#.0000"); 
+        DecimalFormat df = new DecimalFormat("#.0000");
         df.setRoundingMode(RoundingMode.CEILING);
         setPrintStream ("K_MostHappy.txt");
         couples.sort(Comparator.comparing(Couples::getHappiness));
@@ -137,12 +137,12 @@ public class utils {
              System.out.println((i+1) + ": " + couples.get(last-1-i).getGF().getName() + " And "+ couples.get(last-1-i).getBF().getName() +" , Happiness Value " + df.format(couples.get(last-1-i).getHappiness()));
          }
     }
-    
+
     /**
      * This method writes k most  COMPATIBLE COUPLES to file K_MostCompatible.txt
      * @param n value of k
      */
-    
+
     public  void k_mostCompatibleCouples (ArrayList<Couples> couples, int n) {
          setPrintStream ("K_MostCompatible.txt");
          couples.sort(Comparator.comparing(Couples::getCompatibility));
@@ -152,12 +152,12 @@ public class utils {
              System.out.println((i+1) + ": " + couples.get(last-1-i).getGF().getName() + " And "+ couples.get(last-1-i).getBF().getName() +" , Compatibility Value " + couples.get(last-1-i).getCompatibility());
          }
     }
-    
+
     /**
      * Helper Method to change Print Stream from console to file
      * @param fileName fileName in witch output should be redirected
      */
-    
+
     private void setPrintStream (String fileName) {
          try{
             PrintStream o = new PrintStream(new File(fileName));
@@ -166,20 +166,20 @@ public class utils {
         }catch (FileNotFoundException ex){
             System.out.println(ex.toString());
         }
-        
+
     }
-    
-    
+
+
     /**
      * Method to write gifts' List for each couple
      */
-    
+
     public void getAllGiftingDetails(ArrayList<Couples> couples) {
         ArrayList<Gifts> gift;
         setPrintStream ("Gifting.txt");
         int ctr;
         for (Couples c : couples) {
-            
+
             System.out.println ("Following Gifts are given by " + c.getBF().getName() + " to " + c.getGF().getName());
             gift = c.getGifts();
             ctr = 1;
@@ -190,16 +190,17 @@ public class utils {
             System.out.println();
         }
     }
-    
+
     /**
      * <p> Perfrom Break Up for K least happy couples and allocate new boyfriend to girl
      * @param couples
-     * @param k 
+     * @param k
      */
-    
+
     public void breakUp (ArrayList<Couples> couples, int k) {
         couples.sort(Comparator.comparing(Couples::getHappiness));
         int i;
+        setPrintStream ("Log2.txt");
         Couples tempC;
         for (i = 0; i < k; i++) {
             tempC = couples.get(0);

@@ -1,0 +1,23 @@
+The javac version is 1.8.0_121
+The OS is Ubuntu 16.04
+
+For Question 3
+1. Clone the project
+2. cd q3+q4
+3. javac Q3.java
+4. java Q3
+5. cat K_MostHappy.txt
+6. cat K_MostCompatible.txt
+7. cat Gifting.txt
+
+For Question 4
+1. Clone the project
+2. cd q3+q4
+3. javac Q3.java
+4. java Q3
+5. cat Log2.txt
+6. cat Log1.txt
+
+For Documentation
+1. cd javadoc
+2. firefox index.html

@@ -1,0 +1,12 @@
+The javac version is 1.8.0_121
+The OS is Ubuntu 16.04
+
+1. Clone the project
+2. cd q7
+3. javac Q7.java
+4. java Q7
+5. cat FindLog.txt
+
+For Documentation
+1. cd javadoc
+2. firefox index.html
