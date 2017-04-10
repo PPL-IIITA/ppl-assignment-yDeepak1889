@@ -6,4 +6,5 @@
 - EACH FOLDER HAS ITS OWN howToBuild.txt And Class Diagram in .pdf format
 ## TOOLS
 > IDE : NetBeans 8.1 <br>
+> Java Compiler : javac 1.8.0_121 <br>
 > OS : Ubuntu 16.04 
